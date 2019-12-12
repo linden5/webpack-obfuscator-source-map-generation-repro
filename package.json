@@ -1,0 +1,15 @@
+{
+  "name": "webpack-obfuscator-source-map-generation-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "linden5 <827935541@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-obfuscator": "0.18.7"
+  }
+}
